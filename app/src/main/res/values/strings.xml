@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Clash Of Clans Wiki</string>
+    <string name="cr_title">Barbarian</string>
+    <string name="cr_desc">The Barbarian adalah pasukan jarak dekat target tunggal. Dia adalah pasukan pertama yang dibuka di Barak.</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="about_me">About Me</string>
+    <string name="hello_chief">Hello Chief!</string>
+    <string name="barbarian">Barbarian</string>
+    <string name="example_desc">The Barbarian adalah pasukan jarak dekat target tunggal. Dia adalah pasukan pertama yang dibuka di Barak. Dia muncul sebagai prajurit laki-laki berbaju kilt dengan ekspresi marah, siap tempur, lapar akan kehancuran.</string>
+    <string name="share">Share</string>
+    <string name="aldo_saputra">Aldo Saputra</string>
+    <string name="bangkit_2023_students">Bangkit 2023 Students</string>
+    <string name="myEmail">aldosaputra9395@gmail.com</string>
+    <string-array name="characters_titleName">
+        <item>Barbarian</item>
+        <item>Archer</item>
+        <item>Giant</item>
+        <item>Goblin</item>
+        <item>Wall Breaker</item>
+        <item>Balloon</item>
+        <item>Wizard</item>
+        <item>Healer</item>
+        <item>Dragon</item>
+        <item>PEKKA</item>
+    </string-array>
+    <string-array name="characters_Desc">
+        <item>The Barbarian adalah pasukan jarak dekat target tunggal. Dia adalah pasukan pertama yang dibuka di Barak. Dia muncul sebagai prajurit laki-laki berbaju kilt dengan ekspresi marah, siap tempur, lapar akan kehancuran. Dia memiliki rambut pirang cepak dan kumis tapal kuda kuning panjang. Dalam pertempuran, dia menggunakan pedang yang dia gunakan untuk menyerang. Orang barbar tidak memiliki target pilihan saat menyerang; mereka hanya akan menyerang gedung terdekat . Namun, jika mereka mengetahui pasukan Kastel Klan musuh , Pahlawan , atau kerangka Jebakan Kerangka (baik dengan diserang sendiri atau dengan berada di dekat pasukan ramah lain yang diserang), dan dapat melawan mereka, mereka akan meninggalkan bangunan yang sebelumnya ditargetkan dan malah melibatkan pasukan musuh. Setelah semua pasukan musuh terdekat dikalahkan, Orang Barbar akan melanjutkan untuk menyerang bangunan terdekat.</item>
+        <item>Archer adalah pasukan jarak jauh target tunggal yang dibuka dengan Barak level 2 . Dia adalah pasukan jarak jauh pertama yang dibuka di Barak, dan pasukan keseluruhan kedua yang dibuka dalam permainan. Archer tidak memiliki target pilihan saat menyerang; mereka hanya akan menyerang gedung terdekat . Namun, jika mereka mengetahui pasukan Kastel Klan musuh , Pahlawan , atau kerangka Jebakan Kerangka (baik dengan diserang sendiri atau dengan berada di dekat pasukan ramah lain yang diserang), dan dapat melawan mereka, mereka akan meninggalkan bangunan yang sebelumnya ditargetkan dan malah melibatkan pasukan musuh. Setelah semua pasukan musuh terdekat dikalahkan, Pemanah akan melanjutkan untuk menyerang bangunan terdekat.</item>
+        <item>Giant adalah pasukan ketiga yang dibuka di Barak. Target pertama Raksasa adalah pertahanan , menjadikan mereka pasukan yang ideal untuk dikerahkan untuk menghancurkan pertahanan dengan cepat. Namun, karena kerusakan serangannya yang rendah, mereka lebih baik digunakan dalam kelompok besar. Giant memprioritaskan struktur pertahanan di atas semua target lainnya, dan akan melewati semua jenis bangunan dan pasukan musuh lainnya sementara pertahanan apa pun tetap ada di medan perang. Hal ini berlaku bahkan jika mereka diserang oleh pasukan Kastel Klan musuh , pahlawan , atau kerangka Jebakan Kerangka . Perhatikan bahwa seperti semua pasukan yang memprioritaskan pertahanan, Raksasa tidak menganggap Kastil Klan sebagai pertahanan terlepas dari apakah kastil itu berisi pasukan musuh atau tidak, tetapi menganggap Wali Besar yang bertahan dan senjata Balai Kota yang diaktifkan (jika ada) sebagai pertahanan bangunan. Setelah semua pertahanan dihancurkan, Raksasa menjadi seperti pasukan lain tanpa target pilihan; mereka akan menyerang gedung terdekat dengan mereka terlepas dari jenisnya, dan akan berbalik dan menyerang unit musuh jika mereka mengetahui ada di dekatnya dan dapat melawan balik melawan mereka.</item>
+        <item>Goblin adalah pasukan keempat yang dibuka di Barak. Goblin memprioritaskan bangunan sumber daya di atas semua target lainnya, dan akan melewati semua jenis bangunan dan pasukan musuh lainnya saat bangunan sumber daya tetap ada di medan perang. Hal ini berlaku bahkan jika mereka diserang oleh pasukan Kastel Klan musuh , pahlawan , atau kerangka Jebakan Kerangka . Perhatikan bahwa seperti semua pasukan yang memprioritaskan sumber daya, Goblin menganggap Kastel Klan dan Balai Kota sebagai bangunan sumber daya terlepas dari apakah mereka berisi jarahan atau tidak dan apakah senjata Balai Kota (jika ada) diaktifkan atau tidak; Goblin secara istimewa akan menargetkan mereka selain menyebabkan kerusakan ganda pada mereka. Setelah semua bangunan sumber daya dihancurkan, Goblin menjadi seperti pasukan lain tanpa target pilihan; mereka akan menyerang gedung terdekat dengan mereka terlepas dari jenisnya, dan akan berbalik dan menyerang unit musuh jika mereka mengetahui ada di dekatnya dan dapat melawan balik melawan mereka.</item>
+        <item>Wall Breaker adalah pasukan kelima yang dibuka di Barak . Seperti namanya, Penghancur Tembok mengejar tembok, memberikan kerusakan besar pada mereka. Wall Breaker menyerang dengan menemukan bangunan terdekat yang dilindungi (baca: tertutup tembok) dan menghancurkan Tembok pelindungnya, meledakkan dirinya sendiri dalam prosesnya. Ini memberikan kerusakan percikan di sekitar targetnya dan memberikan kerusakan 40x ke dinding.</item>
+        <item>Balon adalah keseluruhan pasukan keenam yang dibuka di Barak , dan merupakan unit udara pertama yang dibuka di Desa Asal, membutuhkan Barak level 6. Balon "dipromosikan" Penghancur Tembok yang sekarang menyerang dari balon udara panas. Mereka menjatuhkan bom ke tanah dengan kerusakan percikan area yang luas, yang dapat menghancurkan berbagai target darat, tetapi dapat dengan mudah dihancurkan oleh bangunan anti-udara atau bangunan yang merusak percikan yang menargetkan udara (seperti Pertahanan Udara atau Menara Penyihir ).</item>
+        <item>Wizard adalah pasukan yang tidak dikunci di Barak level 7 . Dia adalah unit tanah yang rapuh dengan kisaran kerusakan percikan tinggi. Wizard biasanya digunakan dalam kelompok besar untuk mendukung tembakan atau sebagai pengganda kekuatan (mirip dengan Pemanah ), tetapi mereka juga bisa efektif dalam jumlah yang lebih kecil, terutama di level yang lebih rendah.</item>
+        <item>Healer adalah unit terbang yang dibuka di Barak level 8, yang membutuhkan Balai Kota level 6. Dia adalah satu-satunya pasukan yang tidak memiliki kemampuan menyerang, tetapi dapat menyembuhkan pasukan darat mana pun. </item>
+        <item>Dragon adalah pasukan yang dibuka di Barak level 9, yang membutuhkan Balai Kota level 7. Dragon adalah unit terbang menakutkan yang mampu menyerang unit darat dan udara , dengan kesehatan dan kerusakan yang tinggi. Mirip dengan Penyihir , serangan Naga berkisar dan memberikan kerusakan percikan, diamati saat menyerang pasukan musuh yang tumpang tindih atau melewati tembok.</item>
+        <item>Pekka adalah unit besar yang dibuka di Barak standar saat ditingkatkan ke level 10 yang membutuhkan Balai Kota level 8. Dia adalah Pasukan Elixir jarak dekat target tunggal lambat yang menempati sejumlah besar ruang perumahan tetapi dilengkapi dengan sejumlah besar hitpoint dan kerusakan. Dia adalah salah satu pasukan jarak dekat terkuat dalam permainan.</item>
+    </string-array>
+    <string-array name="characters_Picture">
+        <item>@drawable/barbarian</item>
+        <item>@drawable/archer</item>
+        <item>@drawable/giant</item>
+        <item>@drawable/goblin</item>
+        <item>@drawable/wallbreaker</item>
+        <item>@drawable/balloon</item>
+        <item>@drawable/wizard</item>
+        <item>@drawable/healer</item>
+        <item>@drawable/dragon</item>
+        <item>@drawable/pekka</item>
+    </string-array>
+    <string name="photo_me">@drawable/itsmealdo</string>
+    <string name="name_me">Aldo Saputra</string>
+    <string name="bngkt_me">Bangkit 2023 Students</string>
+    <string name="email_me">aldosaputra9395@gmail.com</string>
+</resources>

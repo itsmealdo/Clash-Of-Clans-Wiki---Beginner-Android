@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AboutmeActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp">
+
+        <ImageView
+            android:id="@+id/ivBulat"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_centerVertical="true"
+            android:layout_centerInParent="true"
+            android:src="@drawable/rectagle"
+            />
+
+        <ImageView
+            android:id="@+id/ivMe"
+            android:layout_width="250dp"
+            android:layout_height="240dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/itsmealdo" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvMeName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:fontFamily="@font/poppinsbold"
+            android:textColor="@color/yellow"
+            android:textSize="30sp"
+            android:layout_marginTop="10dp"
+            android:text="@string/aldo_saputra" />
+
+        <TextView
+            android:id="@+id/tvMeBngkt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvMeName"
+            android:text="@string/bangkit_2023_students"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:fontFamily="@font/poppinsmed"
+            android:layout_marginTop="-5dp"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:id="@+id/tvMeEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvMeBngkt"
+            android:text="@string/myEmail"
+            android:gravity="center"
+            android:fontFamily="@font/poppinsmed"
+            android:textColor="@color/black"/>
+    </RelativeLayout>
+
+</LinearLayout>
